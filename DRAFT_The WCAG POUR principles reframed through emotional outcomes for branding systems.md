@@ -6,7 +6,7 @@
 
 **Feeling Seen (was Perceivable)**
 - Functional: Content exists in alternative formats.
-- Emotional: No one scans the room and realises they're missing half the conversation. Users experience belonging — the world feels open to them, not gated behind a format they can't access.
+- Emotional: No one scans the room and realises they're missing half the conversation. Users experience belonging, the world feels open to them, not gated behind a format they can't access.
 
 **Feeling Capable (was Operable)**
 - Functional: All functionality is available via keyboard.
@@ -31,7 +31,7 @@
 
 **Feeling Valued (was Satisfactory)**
 - Functional: The experience meets needs without diminishing dignity or identity.
-- Emotional: Users feel respected, included, and intentionally considered — not accommodated as an afterthought. The experience says: you belong here, and this was made with people like you in mind.
+- Emotional: Users feel respected, included, and intentionally considered, not accommodated as an afterthought. The experience says: you belong here, and this was made with people like you in mind.
 
 Why it works:
 - Strong brand and inclusion language
@@ -47,19 +47,19 @@ Marketing tells people how you want them to feel about your brand. Accessibility
 
 Brand is the contract. WCAG is the proof.
 
-- You campaign feeling valued. A blind user hits a broken site and gets told: no you don't. That cognitive dissonance doesn't just lose one customer — it erodes trust in everyone.
+- You campaign feeling valued. A blind user hits a broken site and gets told: no you don't. That cognitive dissonance doesn't just lose one customer, it erodes trust in everyone.
 
 - You position empowering independence. A user who can't tab through your checkout experiences the opposite. The brand promise reads as dishonest, not aspirational.
 
 - You say we're for everyone. If *"everyone"* stops at the first screen reader, the message reads as marketing theatre. Not values.
 
-- You invest in trust and reliability. Every unsupported assistive tech encounter is a broken promise. Users don't think *"hmm, incomplete feature"* — they think *"this brand doesn't hold up."*
+- You invest in trust and reliability. Every unsupported assistive tech encounter is a broken promise. Users don't think *"hmm, incomplete feature"*, they think, *"this brand doesn't hold up."*
 
 ---
 
-**The brutal truth:** you can run the most emotionally resonant campaign in the world and a single unfocused link will do more to damage your brand perception than a thousand impressions won back. Marketing sets expectations. Accessibility meets or breaks them.
+**The brutal truth:** you can run the most emotionally resonant campaign in the world and a single unfocused link will do more to damage your brand perception than a thousand impressions won back. Marketing sets expectations. Accessibility meets them and builds trust, Inaccessibility breaks them.
 
-For marketers, the reframing matters because emotional outcomes beat compliance checkboxes. Accessibility isn't about passing a test. It's about every customer — regardless of how they interact with the world — walking or wheeling away feeling exactly what your brand says it makes them feel.
+For marketers, the reframing matters because emotional outcomes beat compliance checkboxes. Accessibility isn't about passing a test. It's about every customer, regardless of how they interact with the world, walking or wheeling away feeling exactly what your brand says it makes them feel.
 
 Seen. Capable. Confident. Safe. Valued.
 
